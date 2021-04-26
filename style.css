@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+
+    background-color:antiquewhite;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.container{
+
+      max-width: 1000px;
+      max-height: 175px;
+      background-color:aquamarine;
+      margin: 15px auto ;
+}
+
+.profile-img {
+
+    width:100px;
+    height:120px;
+    border:6px solid white;
+    border-radius:50% ;
+    float:left;
+    margin: 10px;
+}
+.header-bio{
+  float:left;
+  padding: 30px ;
+  text-shadow: 5px 5px 5px;
+}
+h1,h2,h4,h5,h5{
+color:rgb(35, 95, 35);
+
+
+}
+.header-contact{
+  float:right;
+  padding: 10px;
+
+
+}
+.header-contact a{
+  text-decoration: none;
+  color:crimson;
+  text-align: right;
+  font-weight: bold;
+  
+
+
+
+}
+.header-contact a:hover{
+  text-decoration:underline ;
+   color: tomato;
+  
+
+}
+.div-clear{
+  clear: both;
+}
+hr{
+  border: solid green 3px;
+  width: 100%;
+  margin: 20px auto;
+border-bottom: none;
+}
+/*---pesonal section start .......*/
+#personal-section{
+
+
+}
+.content{
+
+}
+.left-div{
+  width: 30%;
+  float: left;
+
+}
+.right-div{
+  width: 60%;
+  float: right ;
+ font-size: 17px;
+
+}
+.common-hr{
+    border: solid blueviolet 1px;
+    width: 100%;
+    margin:20px auto;
+}
+.bottom{
+background-color: chartreuse;
+text-align: center;
+padding: 10px;
+
+}
+.bottom a{
+color: darkmagenta;
+text-decoration:none;
+margin: 20px;
+
+}
+.bottom p{
+  color:aqua;
+  margin-top: 10px;
+  
+  }
+  .bottom a:hover{
+    text-decoration: underline;
+    color:maroon;
+
+     
